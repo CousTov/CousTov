@@ -17,7 +17,7 @@ Welcome to my corner of the internet!🚀
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CousTov&layout=compact&show_icons=true&theme=dark#gh-darkmode-only" alt="Top Langs-Dark">
   </a>
   <a href="https://github.com/CousTov">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CousTov&layout=compact&show_icons=true&theme=dark#gh-light-mode-only" alt="Top Langs-Light">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CousTov&layout=compact&show_icons=true&theme=light#gh-light-mode-only" alt="Top Langs-Light">
   </a>
 </div>
 
