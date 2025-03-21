@@ -6,16 +6,6 @@ Welcome to my corner of the internet!🚀
 | <a href="https://github.com/CousTov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CousTov&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="CousTov's github stats" /></a> | <a href="https://github.com/CousTov"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CousTov&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-## 💻 Most Used Languages
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <a href="https://github.com/CousTov">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CousTov&layout=compact&show_icons=true&theme=dark#gh-darkmode-only" alt="Top Langs-Dark">
-  </a>
-  <a href="https://github.com/CousTov">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CousTov&layout=compact&show_icons=true&theme=light#gh-light-mode-only" alt="Top Langs-Light">
-  </a>
-</div>
-
 
 ## 📚 What I'm Learning & Exploring 🌱
 I'm learning *everything* that piques my interest! 📚  
