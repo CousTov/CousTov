@@ -2,14 +2,9 @@
 Welcome to my corner of the internet!🚀
 
 ## 📊 GitHub Stats
-<div style="display: flex; gap: 20px; flex-wrap: wrap;">
-  <a href="https://github.com/CousTov">
-    <img src="https://github-readme-stats.vercel.app/api?username=CousTov&show_icons=true&theme=dark#gh-dark-mode-only" alt="My GitHub stats-Dark">
-  </a>
-  <a href="https://github.com/CousTov">
-    <img src="https://github-readme-stats.vercel.app/api?username=CousTov&show_icons=true&theme=default#gh-light-mode-only" alt="My GitHub stats-Light">
-  </a>
-</div>
+
+| <a href="https://github.com/CousTov/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CousTov&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="CousTov's github stats" /></a> | <a href="https://github.com/CousTov"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CousTov&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ## 💻 Most Used Languages
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
