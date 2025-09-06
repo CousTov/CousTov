@@ -6,31 +6,26 @@ Welcome to my corner of the internet!🚀
 
 | <a href="https://github.com/CousTov"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CousTov&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="CousTov's github stats" /></a> | <a href="https://github.com/CousTov"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CousTov&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+[![trophy](https://github-profile-trophy.vercel.app/?username=coustov&theme=onedark)](https://github.com/coustov)
 
 ## 📚 What I'm Learning & Exploring 🌱
 
 I'm learning _everything_ that piques my interest! 📚  
-From the latest cutting-edge technologies to the classics, I’m diving deep into anything and everything that I find intriguing. Whether it’s:
+From the latest cutting-edge technologies to the classics, I’m diving deep into anything and everything that I find intriguing. 
 
-- **Cybersecurity**: Exploring both the fundamentals and the latest trends in ethical hacking and penetration testing. 🔐
-- **Neovim**: Embracing the power of terminal-based editors and customizing my workflow. 🧙‍♂️
-- **Python**: From automating tasks to building AI systems, Python’s versatility keeps me coming back. 🐍
-- **DevOps**: From managing infrastructure to mastering CI/CD pipelines. ☁️
-- **Blockchain**: Understanding the revolutionary power behind decentralized systems and exploring new blockchain projects. 🌍
-- **Machine Learning**: Teaching machines to think, adapt, and grow smarter with each interaction. 🤖
-- **Web Development**: Exploring the full-stack world, from designing dynamic websites to optimizing back-end services. 🌐
-- **Old and New Tech**: Constantly keeping my eyes out for emerging technologies, as well as rediscovering and understanding the older ones that laid the foundation of today’s innovations. 💡
+In short: if it’s tech, I’m probably learning it!
 
-In short: if it’s tech, I’m probably learning it! 😄
+## 🛠️ Tools & Technologies I Spend Time With
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=coustov&theme=onedark)](https://github.com/coustov/github-profile-trophy)
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="neovim" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg" alt="github copilot" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/actions/starter-workflows/58e7cd05f5fafcdf73c5efd768127bc8522cfd98/icons/powershell.svg" alt="powershell" width="40" height="40"/>
+</p>
+<img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="20" height="20"/> </br>
+<span style="font-size:6.9px">(i use arch btw)</span>
 
-## 🛠️ My Setup
 
-![OS](https://img.shields.io/badge/OS-Arch_Linux-1793d1?logo=Arch-Linux&logoColor=white)
-![Editor](https://img.shields.io/badge/Editor-VS_Codium-007ACC?logo=vscodium&logoColor=white)
-![Editor](https://img.shields.io/badge/Editor-NeoVim-57A143?logo=neovim&logoColor=white)
-
-## 🤝 Connect with Me
-
-Currently unavailable... but stay tuned, something cool is coming soon! ✨
