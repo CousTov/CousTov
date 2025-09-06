@@ -27,9 +27,16 @@ In short: if it’s tech, I’m probably learning it!
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/actions/starter-workflows/58e7cd05f5fafcdf73c5efd768127bc8522cfd98/icons/powershell.svg" alt="powershell" width="40" height="40"/>
 </p>
-</br></br></br></br></br></br>
 
-<img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="420" height="69"/> </br>
-<span>(i use arch btw)</span>
+<br/>
+
+<details align="center">
+  <summary>... btw</summary>
+  <p align="center">
+    <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="500" height="50"/>
+    <br>
+    I use Arch.
+  </p>
+</details>
 
 
