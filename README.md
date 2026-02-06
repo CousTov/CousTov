@@ -4,16 +4,14 @@ Welcome to my corner of the internet!🚀
 
 ## 📊 GitHub Stats
 
-| <a href="https://github.com/CousTov"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CousTov&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="CousTov's github stats" /></a> | <a href="https://github.com/CousTov"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CousTov&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=CousTov&theme=dark)
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=coustov&theme=onedark)](https://github.com/coustov)
+![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CousTov&theme=github_dark)
 
 ## 📚 What I'm Learning & Exploring 🌱
 
 I'm learning _everything_ that piques my interest! 📚  
-From the latest cutting-edge technologies to the classics, I’m diving deep into anything and everything that I find intriguing. 
+From the latest cutting-edge technologies to the classics, I’m diving deep into anything and everything that I find intriguing.
 
 In short: if it’s tech, I’m probably learning it!
 
@@ -36,5 +34,3 @@ In short: if it’s tech, I’m probably learning it!
     I use Arch.
   </p>
 </details>
-
-
