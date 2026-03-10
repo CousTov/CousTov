@@ -32,5 +32,11 @@ In short: if it’s tech, I’m probably learning it!
     <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="archlinux" width="500" height="50"/>
     <br>
     I use Arch.
+    <br>
+    <br>
+    <details align="center">
+      <summary>pfp lore</summary>
+      Profile picture: Terry A. Davis. A brilliant yet tragic figure in the tech sphere, whose genius will forever be remembered and honored.
+    </details>
   </p>
 </details>
