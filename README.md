@@ -19,12 +19,22 @@ In short: if it’s tech, I’m probably learning it!
 
 <div align="left">
 
-![vscode](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg) &nbsp; &nbsp;
-![neovim](https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg) &nbsp; &nbsp;
-![github copilot](https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg) &nbsp; &nbsp;
+![opensource](https://www.vectorlogo.zone/logos/opensource/opensource-icon.svg)
+![vscode](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg)
+![neovim](https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg)
+![github copilot](https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg)
 ![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+![bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
+![linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
+![docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
+![wireguard](https://www.vectorlogo.zone/logos/wireguard/wireguard-icon.svg)
+![raspberrypi](https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg)
+![arduino](https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg)
+![android](https://www.vectorlogo.zone/logos/android/android-icon.svg)
+![apple](https://www.vectorlogo.zone/logos/apple/apple-icon.svg)
 
 </div>
+
 
 <br/>
 
