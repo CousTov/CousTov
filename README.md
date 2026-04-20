@@ -17,12 +17,14 @@ In short: if it’s tech, I’m probably learning it!
 
 ## 🛠️ Tools & Technologies I Spend Time With
 
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" alt="neovim" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg" alt="github copilot" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</p>
+<div align="left">
+
+![vscode](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg) &nbsp; &nbsp;
+![neovim](https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg) &nbsp; &nbsp;
+![github copilot](https://www.vectorlogo.zone/logos/github_copilot/github_copilot-icon.svg) &nbsp; &nbsp;
+![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+
+</div>
 
 <br/>
 
